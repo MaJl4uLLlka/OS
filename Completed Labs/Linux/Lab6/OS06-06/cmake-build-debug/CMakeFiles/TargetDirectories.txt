@@ -1,0 +1,3 @@
+/home/greenboy/Labs/Lab6/OS06-06/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/greenboy/Labs/Lab6/OS06-06/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/greenboy/Labs/Lab6/OS06-06/cmake-build-debug/CMakeFiles/OS06_06.dir

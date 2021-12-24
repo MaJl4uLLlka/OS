@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/greenboy/Labs/Lab5/OS05-04/main.c
+stdio.h
+-
+sched.h
+-
+unistd.h
+-
+stdbool.h
+-
+sys/syscall.h
+-
+sys/types.h
+-
+sys/resource.h
+-
+

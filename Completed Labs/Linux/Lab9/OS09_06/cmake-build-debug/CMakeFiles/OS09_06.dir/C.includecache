@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/greenboy/Labs/Lab9/OS09_06/main.c
+stdio.h
+-
+stdlib.h
+-
+sys/types.h
+-
+time.h
+-
+unistd.h
+-
+sys/stat.h
+-
+fcntl.h
+-
+locale.h
+-
+

@@ -1,0 +1,1 @@
+/usr/bin/cc -g CMakeFiles/OS009_07.dir/main.c.o -o OS009_07 

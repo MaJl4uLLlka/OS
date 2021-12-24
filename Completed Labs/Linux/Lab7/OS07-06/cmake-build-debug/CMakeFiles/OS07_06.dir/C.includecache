@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/greenboy/Labs/Lab7/OS07-06/main.c
+stdio.h
+-
+stdlib.h
+-
+sys/types.h
+-
+unistd.h
+-
+pthread.h
+-
+

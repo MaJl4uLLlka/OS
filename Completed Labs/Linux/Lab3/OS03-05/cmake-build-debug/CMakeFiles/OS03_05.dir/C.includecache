@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/greenboy/Labs/Lab3/OS03-05/main.c
+stdio.h
+-
+stdlib.h
+-
+errno.h
+-
+unistd.h
+-
+sys/types.h
+-
+sys/wait.h
+-
+

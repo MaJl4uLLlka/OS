@@ -1,0 +1,1 @@
+/usr/bin/cc -g CMakeFiles/OS04_08.dir/main.c.o -o OS04_08 
