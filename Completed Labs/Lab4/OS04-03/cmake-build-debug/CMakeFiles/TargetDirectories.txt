@@ -1,0 +1,3 @@
+D:/3ks1/OS/Completed Labs/Lab4/OS04-03/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+D:/3ks1/OS/Completed Labs/Lab4/OS04-03/cmake-build-debug/CMakeFiles/OS04_03.dir
+D:/3ks1/OS/Completed Labs/Lab4/OS04-03/cmake-build-debug/CMakeFiles/edit_cache.dir

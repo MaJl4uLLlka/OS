@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/3ks1/OS/Completed Labs/Lab5/OS05-03/main.cpp
+iostream
+-
+windows.h
+-
+bitset
+-
+

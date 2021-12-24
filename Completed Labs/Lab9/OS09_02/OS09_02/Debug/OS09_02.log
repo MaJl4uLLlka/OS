@@ -1,0 +1,7 @@
+﻿  main.cpp
+D:\3ks1\OS\Completed Labs\Lab9\OS09_02\OS09_02\main.cpp(53,53): warning C4244: инициализация: преобразование "LONGLONG" в "unsigned int", возможна потеря данных
+D:\3ks1\OS\Completed Labs\Lab9\OS09_02\OS09_02\main.cpp(54,61): warning C4244: инициализация: преобразование "LONGLONG" в "unsigned int", возможна потеря данных
+D:\3ks1\OS\Completed Labs\Lab9\OS09_02\OS09_02\main.cpp(55,13): warning C4244: аргумент: преобразование "LONGLONG" в "size_t", возможна потеря данных
+D:\3ks1\OS\Completed Labs\Lab9\OS09_02\OS09_02\main.cpp(56,13): warning C4244: аргумент: преобразование "LONGLONG" в "size_t", возможна потеря данных
+D:\3ks1\OS\Completed Labs\Lab9\OS09_02\OS09_02\main.cpp(61,49): warning C4244: аргумент: преобразование "LONGLONG" в "DWORD", возможна потеря данных
+  OS09_02.vcxproj -> D:\3ks1\OS\Completed Labs\Lab9\OS09_02\Debug\OS09_02.exe
