@@ -28,7 +28,6 @@ int main() {
 
 DWORD WINAPI A()
 {
-    int start = clock();
     EnterCriticalSection();
 
     for (int i = 0; i < 5; ++i) 
@@ -42,7 +41,7 @@ DWORD WINAPI A()
 
 DWORD WINAPI B()
 {
-    //Sleep(15);
+    Sleep(15);
     EnterCriticalSection();
     for (int i = 0; i < 5; ++i) 
     {
