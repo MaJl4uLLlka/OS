@@ -31,8 +31,8 @@ int main()
 		Sleep(100);
 	}
 
-	WaitForSingleObject(hA, INFINITY);
-	WaitForSingleObject(hB, INFINITY);
+	WaitForSingleObject(hA, INFINITE);
+	WaitForSingleObject(hB, INFINITE);
 	
 	DeleteCriticalSection(&cs);
 
